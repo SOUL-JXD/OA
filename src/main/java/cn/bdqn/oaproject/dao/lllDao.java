@@ -1,4 +1,4 @@
 package cn.bdqn.oaproject.dao;
 
-public interface dao {
+public interface lllDao {
 }
