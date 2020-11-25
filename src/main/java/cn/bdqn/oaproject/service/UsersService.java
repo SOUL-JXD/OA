@@ -1,6 +1,6 @@
 package cn.bdqn.oaproject.service;
 
-public interface UserService {
+public interface UsersService {
     /**
      * 查询用户总数
      * @return
